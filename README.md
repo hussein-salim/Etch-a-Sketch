@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# Etch-a-Sketch
-=======
-Etch-a-Sketch Project
->>>>>>> 765e225 (Initial commit of Etch-a-Sketch project)
+
+###Etch-a-Sketch
+
+## Overview
+An interactive Etch-a-Sketch project from The Odin Project curriculum. 
+This project allows users to draw on a grid using mouse movements.
